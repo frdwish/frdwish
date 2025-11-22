@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Fd
 
--Machine Learning Enthusiast | Python Developer  
+-Machine Learning Enthusiast | Data Scientist| Data Analytics| Python Developer  
 -Focused on building logical problem-solving skills and end-to-end ML solutions
 
 ---
