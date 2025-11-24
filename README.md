@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Fd
+## 👋 Hi, I'm Fardwish
 
 -Machine Learning Enthusiast | Data Scientist| Data Analytics| Python Developer  
 -Focused on building logical problem-solving skills and end-to-end ML solutions
