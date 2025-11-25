@@ -11,7 +11,7 @@
 - Machine Learning (EDA → Model → Deployment)
 - Nlp + Deep learning
 - Version Control (Git & GitHub)
-
+- n8n workflow
 ## Tech Stack
 - **Languages:** Python  
 - **Libraries:** NumPy, Pandas, Scikit-Learn, Matplotlib ,Seaborn
