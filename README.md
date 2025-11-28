@@ -1,4 +1,6 @@
-<h1 align="left">👋 Hi, I'm Fardwish</h1>
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&text=%F0%9F%91%8B%20Hi,%20I'm%20Fardwish&fontSize=70&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+</div>
 
 ###
 
@@ -99,14 +101,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/frdwish/frdwish/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/frdwish/frdwish/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/frdwish/frdwish/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <br clear="both">
 
 <div align="center">
@@ -115,8 +109,6 @@
 
 ###
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
-</div>
+<img src="https://raw.githubusercontent.com/frdwish/frdwish/output/snake.svg" alt="Snake animation" />
 
 ###
