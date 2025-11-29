@@ -6,13 +6,23 @@
 
 <h2 align="left">About me</h2>
 
+🎯 *Machine Learning & Data Science Enthusiast*  
+🔍 Passionate about building **logic-driven solutions**, **AI systems**, and **end-to-end ML workflows**  
+📊 Focused on **problem-solving**, **model optimization**, and **data insights**  
+📁 Currently working on **hands-on ML projects** & preparing for an **AI-focused internship**
+
 ###
 
-<p align="left">-Machine Learning Enthusiast | Data Scientist| Data Analytics| Python Developer<br>-Focused on building logical problem-solving skills and end-to-end ML solutions</p>
+<h2 align="left">Actively looking for-></h2>
+
+- 🎓 ML / Data Science Internship
+- 🤖 Freelance AI & Automation Projects
+- 🧠 Collaboration on Intelligent Systems & Startups
+
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">I code with-></h2>
 
 ###
 
@@ -68,13 +78,34 @@
 
 ###
 
+---
+
+## Featured Projects  
+_Some of my favorite end-to-end projects in Machine Learning, Data Analytics, and AI._
+
+| **Project** | **Description** | **Tech Stack** | **Link** |
+|------------|----------------|----------------|----------|
+| **Customer Support Classifier** | End-to-end ML/NLP project to classify customer support tickets using FastAPI & Streamlit. | Python, NLP, FastAPI, Streamlit, Jupyter Notebook | [GitHub](https://github.com/frdwish/customer-support-classifier) |
+| **Student Success Predictor** | A predictive ML model that estimates student performance & success probability using Streamlit. | Python, Streamlit, Scikit-learn, Pandas | [GitHub](https://github.com/frdwish/student-success-predictor) |
+| **YouTube Analytics Dashboard** | Data analytics project to extract and visualize YouTube channel performance insights. | Jupyter Notebook, Python, Data Analytics | [GitHub](https://github.com/frdwish/youtube-analytics-dashboard) |
+| **To-Automate-or-not Chatbot** | A chatbot that helps decide whether a task should be automated based on logic. | Python | [GitHub](https://github.com/frdwish/To-Automate-or-not-chatbot) |
+
+⭐ _If you like my work, feel free to star the repositories!_
+
+[![GitHub Repo stars](https://img.shields.io/github/stars/frdwish/customer-support-classifier?style=social)]()
+
+---
+
+
+## GitHub Statistics
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=frdwish&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=frdwish&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=frdwish&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-###
+## Connect with Me
 
 <div align="left">
   <a href="https://www.linkedin.com/in/md-fardwish-ali-6620472b4/" target="_blank">
@@ -111,4 +142,10 @@
 
 <img src="https://raw.githubusercontent.com/frdwish/frdwish/output/snake.svg" alt="Snake animation" />
 
-###
+
+### 🔍 Case Study: Automating Customer Support Tickets using ML + AI Agents (still working) 
+- Developed an NLP-based system that classifies and automates customer tickets using TF–IDF and XGBoost, 
+- Deployed via FastAPI, and integrated with n8n automation workflows.
+- Achieved 89% accuracy and reduced manual response time by 45%.
+- This solution can scale to AI agentic automation for real-time ticket handling.
+
