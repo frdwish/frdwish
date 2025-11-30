@@ -6,10 +6,10 @@
 
 <h2 align="left">About me</h2>
 
-🎯 *Machine Learning & Data Science Enthusiast*  
-🔍 Passionate about building **logic-driven solutions**, **AI systems**, and **end-to-end ML workflows**  
-📊 Focused on **problem-solving**, **model optimization**, and **data insights**  
-📁 Currently working on **hands-on ML projects** & preparing for an **AI-focused internship**
+**🎯 Machine Learning & Data Science Geek**
+- 🔍 Passionate about building **logic-driven solutions**, **AI systems**, and **end-to-end ML workflows**  
+- 📊 Focused on **problem-solving**, **model optimization**, and **data insights**  
+- 📁 Currently working on **hands-on ML projects** & preparing for an **AI-focused internship**
 
 ###
 
