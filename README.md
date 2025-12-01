@@ -85,12 +85,14 @@ _Some of my favorite end-to-end projects in Machine Learning, Data Analytics, an
 
 | **Project** | **Description** | **Tech Stack** | **Link** |
 |------------|----------------|----------------|----------|
+| **RecycloVision – AI Waste Sorting System** | Deep learning model (ResNet-18) that classifies waste into 6 categories with 93.66% accuracy. Includes a complete ML pipeline & Streamlit deployment. | Python, PyTorch, NumPy, Streamlit, Scikit-learn | [GitHub](https://github.com/frdwish/RecycloVision-AI-Waste-Sorting) |
 | **Customer Support Classifier** | End-to-end ML/NLP project to classify customer support tickets using FastAPI & Streamlit. | Python, NLP, FastAPI, Streamlit, Jupyter Notebook | [GitHub](https://github.com/frdwish/customer-support-classifier) |
 | **Student Success Predictor** | A predictive ML model that estimates student performance & success probability using Streamlit. | Python, Streamlit, Scikit-learn, Pandas | [GitHub](https://github.com/frdwish/student-success-predictor) |
 | **YouTube Analytics Dashboard** | Data analytics project to extract and visualize YouTube channel performance insights. | Jupyter Notebook, Python, Data Analytics | [GitHub](https://github.com/frdwish/youtube-analytics-dashboard) |
 | **To-Automate-or-not Chatbot** | A chatbot that helps decide whether a task should be automated based on logic. | Python | [GitHub](https://github.com/frdwish/To-Automate-or-not-chatbot) |
 
 ⭐ _If you like my work, feel free to star the repositories!_
+
 
 [![GitHub Repo stars](https://img.shields.io/github/stars/frdwish/customer-support-classifier?style=social)]()
 
