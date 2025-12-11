@@ -101,11 +101,8 @@ _Some of my favorite end-to-end projects in Machine Learning, Data Analytics, an
 
 ## GitHub Statistics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=frdwish&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=frdwish&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=frdwish&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=frdwish&theme=tokyonight)
+
 
 ## Connect with Me
 
