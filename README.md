@@ -1,6 +1,24 @@
+<!-- HERO IMAGE WITH MATRIX GLOW -->
+<p align="center">
+  <img 
+    src="lego-matrix.jpg"
+    alt="Late night coding vibe"
+    width="680"
+    style="
+      border-radius: 14px;
+      box-shadow:
+        0 0 25px rgba(0, 255, 120, 0.35),
+        0 0 60px rgba(0, 180, 90, 0.25),
+        0 0 120px rgba(0, 120, 60, 0.2);
+    "
+  />
+</p>
+
+
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&text=%F0%9F%91%8B%20Hi,%20I'm%20Fardwish&fontSize=70&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&text=%F0%9F%91%8B%20Hi,%20I'm%20Fardwish&fontSize=70&fontAlign=50&fontAlignY=50&animation=fadeIn&color=gradient" />
 </div>
+
 
 ###
 
