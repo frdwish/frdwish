@@ -1,7 +1,7 @@
 <!-- HERO IMAGE WITH MATRIX GLOW -->
 <p align="center">
   <img 
-    src="lego-matrix.jpg"
+    src="lego-matrix1.jpg"
     alt="Late night coding vibe"
     width="680"
     style="
