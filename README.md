@@ -24,18 +24,18 @@
 
 <h2 align="left">About me</h2>
 
-**Machine Learning & Data Science Geek**
--  Passionate about building **logic-driven solutions**, **AI systems**, and **end-to-end ML workflows**  
--  Focused on **problem-solving**, **model optimization**, and **data insights**  
--  Currently working on **hands-on ML projects** & preparing for an **AI-focused internship**
+**Data Analyst | Data-Driven Problem Solver**
+- Passionate about turning raw data into meaningful insights that drive smarter decisions. Skilled in data cleaning, exploration, visualization, and analysis to uncover trends and patterns.
+- Focused on analytical problem-solving, KPI tracking, and creating clear, actionable reports for stakeholders. Experienced in working with structured datasets and applying statistical thinking to real-world business problems.
+- Currently building hands-on data analytics projects and strengthening skills in SQL, Excel, Python, and data visualization tools while preparing for a data-focused internship.
 
 ###
 
 <h2 align="left">Actively looking for-></h2>
 
-- ML / Data Science Internship
-- Freelance AI & Ml Projects
-- Collaboration on Intelligent Systems & Startups
+- Data Analyst Internship / Entry-Level Role
+- Freelance Data Analysis Projects
+- Collaboration on data-driven products & analytics teams
 
 
 ###
